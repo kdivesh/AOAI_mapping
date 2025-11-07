@@ -1,2 +1,0 @@
-[dotenv@17.2.3] injecting env (0) from .env -- tip: ⚙️  override existing env vars with { override: true }
-[server] http://localhost:8000
